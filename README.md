@@ -6,6 +6,8 @@ Few scripts for understanding fallout shelter dwellers
 
 Calculates what health dwellers could potentially reach if they were leveled up with different endurance stats.
 
+| stat | description |
+| ---- | ---- |
 | opcXX | opportunity cost if levelled with this effective endurance |
 | eXX | final health if leveled with effective endurance |
 | spsum | special sum including gear |
